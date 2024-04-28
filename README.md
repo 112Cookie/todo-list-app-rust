@@ -15,7 +15,7 @@ To build and run the application, follow these steps:
 
 1. Install Rust from [the official site](https://www.rust-lang.org/tools/install).
 2. Clone this repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/112Cookie/todo-list-app-rust.git
 
 3. Navigate to the project directory:
    cd your-repo-name
